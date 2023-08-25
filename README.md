@@ -1,6 +1,6 @@
 # Bem-Vindo(a) ao Meu GitHub! 🌌
 
-Tudo tranquilo? Eu sou o Harlans! ...Sim, o meu nome é um desses diferentes mesmo. As pessoas já acham que é um nick, haha. 😄
+Tudo tranquilo? Eu sou o Harlans! ...Sim, o meu nome é um desses diferentes mesmo. 😄
 
 ---
 
