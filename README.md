@@ -1,16 +1,25 @@
-### Hi there 👋
+Bem-Vindo(a) ao meu GitHub! 🌌
+Eu me chamo Harlans! ...Sim, o meu nome é um desses diferentes mesmo. As pessoas já acham que é um nick, haha. 😄
 
-<!--
-**HarlansFagundes/HarlansFagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interesses:
 
-Here are some ideas to get you started:
+🎮 Games
+🎬 Animes e Séries (One Piece melhor anime)
+🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formação:
+
+🎓 Administração
+✈️ Turismo
+
+Cursando:
+
+💻 Engenharia de Software
+🛡️ Cibersegurança
+
+"O que eu decidi proteger, vou proteger com toda a minha força!" - Monkey D. Luffy
+
+Sejam bem-vindos! (Espero que tenham conseguido soletrar o meu nome direitinho!) 🚀
+
+![Snake animation](https://github.com/HarlansFagundes/blob/output/github-contribution-grid-snake.svg)
+
