@@ -10,7 +10,7 @@ Tudo tranquilo? Eu sou o Harlans! ...Sim, o meu nome é um desses diferentes mes
 
 🎬 Animes e Séries (One Piece melhor anime)
 
-🐍 Python
+🐍 Python (Machine Learning e Cybersecurity)
 
 ---
 
