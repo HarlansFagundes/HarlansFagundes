@@ -4,9 +4,7 @@ Eu me chamo Harlans! ...Sim, o meu nome é um desses diferentes mesmo. As pessoa
 Interesses:
 
 🎮 Games
-
 🎬 Animes e Séries (One Piece melhor anime)
-
 🐍 Python
 
 Formação:
