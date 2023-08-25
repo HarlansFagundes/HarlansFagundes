@@ -12,8 +12,8 @@ Tudo tranquilo? Eu sou o Harlans! ...Sim, o meu nome é um desses diferentes mes
 - ✈️ Turismo
 
 **Cursando:**
-- 💻 Engenharia de Software
-- 🛡️ Cibersegurança
+- 💻 Engenharia de Software (MBA)
+- 🛡️ Cibersegurança (Especialização)
   - *Em desenvolvimento:*
     1. 🛠️ Desenvolvimento de Ferramentas de Segurança
     2. 🤖 Automação e Scripting para Tarefas de Segurança
@@ -25,4 +25,4 @@ Tudo tranquilo? Eu sou o Harlans! ...Sim, o meu nome é um desses diferentes mes
 
 *"O que eu decidi proteger, vou proteger com toda a minha força!"* - Monkey D. Luffy
 
-Sejam bem-vindos! (Espero que tenham conseguido soletrar o meu nome direitinho!) 🚀
+Tamo junto! (Espero que tenham conseguido soletrar o meu nome direitinho!) 👊
