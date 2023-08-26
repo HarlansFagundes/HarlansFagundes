@@ -1,31 +1,31 @@
-# Olá, bem-vindo! Eu sou o Harlans! 🧙
+# Hello, welcome! I am Harlans! 🧙
 
-...Sim, o meu nome é um desses diferentes mesmo. 😅
+...Yes, my name is one of those unique ones. 😅
 
-## Interesses:
+## Interests:
 
 - 🎮 Games
-- 🎬 Animes e Séries (One Piece melhor anime)
-- 🐍 Python (Machine Learning e Cybersecurity)
+- 🎬 Anime and Series (One Piece, best anime)
+- 🐍 Python (Machine Learning and Cybersecurity)
 
-## Formação:
+## Education:
 
-- 🎓 Administração
-- ✈️ Turismo
+- 🎓 Business Administration
+- ✈️ Tourism
 
-## Cursando:
+## Currently Pursuing:
 
-- 💻 Engenharia de Software (MBA)
-- 🛡️ Cibersegurança (Especialização)
-  - **Em desenvolvimento:**
-    - 🛠️ Desenvolvimento de Ferramentas de Segurança
-    - 🤖 Automação e Scripting para Tarefas de Segurança
-    - 🔍 Análise de Dados para Identificar Padrões Suspeitos
-    - 🕵️ Testes de Penetração e Identificação de Vulnerabilidades
-    - 🔐 Implementação de Criptografia e Segurança de Dados
-    - 📊 Simulação e Treinamento em Segurança Cibernética
-    - 📂 Análise Forense Digital para Evidências Digitais
+- 💻 Software Engineering (MBA)
+- 🛡️ Cybersecurity (Specialization)
+  - **In Progress:**
+    - 🛠️ Security Tool Development
+    - 🤖 Automation and Scripting for Security Tasks
+    - 🔍 Data Analysis to Identify Suspicious Patterns
+    - 🕵️ Penetration Testing and Vulnerability Identification
+    - 🔐 Implementation of Data Encryption and Security
+    - 📊 Cybersecurity Simulation and Training
+    - 📂 Digital Forensic Analysis for Digital Evidence
 
-*"O que eu decidi proteger, vou proteger com toda a minha força!"* - Monkey D. Luffy
+*"What I've decided to protect, I'll protect with all my strength!"* - Monkey D. Luffy
 
-Tamo junto! (Espero que tenham conseguido soletrar o meu nome direitinho!) 👊🏼
+We're in this together! (I hope you managed to spell my name correctly!) 👊🏼
