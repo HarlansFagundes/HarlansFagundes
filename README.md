@@ -1,4 +1,4 @@
-# Hello, welcome! I am Harlans! 🧙
+# Hello and welcome! I am Harlans! 🧙
 
 ...Yes, my name is one of those unique ones. 😅
 
