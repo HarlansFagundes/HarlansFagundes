@@ -1,4 +1,4 @@
-Bem-Vindo(a) ao Meu GitHub! 🌌
+Bem-Vindo(a) ao meu GitHub! 🌌
 
 Tudo tranquilo? Eu sou o Harlans! ...Sim, o meu nome é um desses diferentes mesmo. 😄
 
