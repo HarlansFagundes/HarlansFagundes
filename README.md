@@ -26,6 +26,19 @@
     - 📊 Cybersecurity Simulation and Training
     - 📂 Digital Forensic Analysis for Digital Evidence
 
+## Learning:
+
+- 🌱 Django (Web Framework)
+- 🌱 PostgreSQL (Database)
+- 🌱 TensorFlow (Deep Learning)
+- 🌱 Keras (Neural Networks)
+- 🌱 Cryptography (Security)
+- 🌱 PyJWT (Authentication)
+- 🌱 OAuthLib (Authentication and Authorization)
+- 🌱 Passlib (Password Management)
+- 🌱 Flask-WTF (Web Security)
+- 🌱 PyAC (Access Control)
+
 *"What I've decided to protect, I'll protect with all my strength!"* - Monkey D. Luffy
 
 We're in this together! (I hope you managed to spell my name correctly!) 👊🏼
