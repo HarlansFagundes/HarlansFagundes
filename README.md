@@ -41,4 +41,4 @@
 
 *"What I've decided to protect, I'll protect with all my strength!"* - Monkey D. Luffy
 
-We're in this together! (I hope you managed to spell my name correctly!) 👊🏼
+We're in this together! (I hope you spelled my name correctly!) 👊🏼
