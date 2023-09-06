@@ -28,17 +28,12 @@
 
 ## Learning:
 
-- 🌱 Django (Web Framework)
-- 🌱 PostgreSQL (Database)
-- 🌱 TensorFlow (Deep Learning)
-- 🌱 Keras (Neural Networks)
+- 🌱 Django (Web)
+- 🌱 PostgreSQL (Data)
+- 🌱 Scikit-Learn (ML)
+- 🌱 TensorFlow (DL)
+- 🌱 Keras (Neural)
 - 🌱 Cryptography (Security)
-- 🌱 PyJWT (Authentication)
-- 🌱 OAuthLib (Authentication and Authorization)
-- 🌱 Passlib (Password Management)
-- 🌱 Flask-WTF (Web Security)
-- 🌱 PyAC (Access Control)
 
-*"What I've decided to protect, I'll protect with all my strength!"* - Monkey D. Luffy
 
-We're in this together! (I hope you spelled my name correctly!) 👊🏼
+*"What I've decided to protect, I'll protect with all my strength!"* - Monkey D. Luffy 👊🏼
