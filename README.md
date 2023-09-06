@@ -5,7 +5,7 @@
 ## Interests:
 
 - 🎮 Games
-- 🎬 Anime and Series (One Piece, best anime)
+- 🎬 Anime and Series (One Piece is the greatest anime of all time! 🏴‍☠️)
 - 🐍 Python (Machine Learning and Cybersecurity)
 
 ## Education:
