@@ -15,7 +15,7 @@
 ## Curiosities:
 
 - 🎉 Founder & Producer of Festival Kanzen (pop culture event that ran for 10 years)
-- 🕹️ Founder & Producer of Game Festival (video game event) in Recife, Pernambuco
+- 🕹️ Founder & Producer of Game Festival (video game and E-Sports event) in Recife, Pernambuco
 
 ## Education:
 
