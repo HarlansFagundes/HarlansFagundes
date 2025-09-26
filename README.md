@@ -12,11 +12,11 @@
 
 - 🎓 Business Administration
 - ✈️ Tourism
+- 💻 Software Engineering (MBA)
+- 🛡️ Cybersecurity (Specialization)
 
 ## Currently Pursuing:
 
-- 💻 Software Engineering (MBA)
-- 🛡️ Cybersecurity (Specialization)
   - **In Progress:**
     - 🛠️ Security Tool Development
     - 🤖 Automation and Scripting for Security Tasks
