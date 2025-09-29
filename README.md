@@ -13,12 +13,13 @@
 - 📈 Project & Product Management – Agile methodologies (Scrum, Kanban), project planning, product coordination, task prioritization, and process optimization
 - 🤝 Team Leadership & Collaboration – Leading multidisciplinary teams, mentoring, and fostering a collaborative work environment
 
-## Curiosities:
+## Curiosities & Achievements:
 
 - 🎉 Founder and Producer of Festival Kanzen (Pop Culture event, ran for 10 years) | Recife-PE
 - 🕹️ Founder and Producer of Game Festival (Electronic Games and E-Sports event) | Recife-PE
 - 🕹️ Organizer of the First Official Pernambuco League of Legends Championship, in partnership with Riot Games | Recife-PE
 - 🕹️ Cultural Producer and Curator hired by Ikewai (Porto Digital) to create the Porto Digital League of Legends (PDLOL) | Recife-PE
+- 🎭 Acting – Trained actor, graduated from Companhia de Teatro Manoel Constantino
 - 📚 Author of the book Oliver Chad: The 8th Elite Hunter, participant in the Kindle Literature Prize
 
 ## Education:
