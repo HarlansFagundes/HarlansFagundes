@@ -9,13 +9,17 @@
 
 ## Professional Interests:
 
-- 🗣️ Communication
-- 📈 Project Management with Agile Methodologies (Scrum, Kanban, etc.)
+- 🗣️ Communication – Effective verbal and written communication, team coordination, and stakeholder management
+- 📈 Project & Product Management – Agile methodologies (Scrum, Kanban), project planning, product coordination, task prioritization, and process optimization
+- 🤝 Team Leadership & Collaboration – Leading multidisciplinary teams, mentoring, and fostering a collaborative work environment
 
 ## Curiosities:
 
-- 🎉 Founder & Producer of Festival Kanzen (pop culture event that ran for 10 years)
-- 🕹️ Founder & Producer of Game Festival (video game and E-Sports event) in Recife, Pernambuco
+- 🎉 Founder and Producer of Festival Kanzen (Pop Culture event, ran for 10 years) | Recife-PE
+- 🕹️ Founder and Producer of Game Festival (Electronic Games and E-Sports event) | Recife-PE
+- 🕹️ Organizer of the First Official Pernambuco League of Legends Championship, in partnership with Riot Games | Recife-PE
+- 🕹️ Cultural Producer and Curator hired by Ikewai (Porto Digital) to create the Porto Digital League of Legends (PDLOL) | Recife-PE
+- 📚 Author of the book Oliver Chad: The 8th Elite Hunter, participant in the Kindle Literature Prize
 
 ## Education:
 
@@ -23,9 +27,10 @@
 - ✈️ Tourism – Faculdade Santa Helena
 - 💻 Software Engineering (MBA) – Faculdade Metropolitana de São Paulo
 - 🛡️ Cybersecurity (Specialization) – Faculdade Metropolitana de São Paulo
-- 📢 Marketing and Advertising (2-year Specialization)
+- 📢 Marketing and Advertising (2-year Specialization) - Escola Superior de Marketing
 - 📑 Agile Management with Scrum – Udemy
 - 🐍 Python (Machine Learning and Cybersecurity) – Udemy
+- 📜 Certifications: ERP e CRM – TOTVS
 
 ## Currently Pursuing:
 
