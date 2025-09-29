@@ -19,7 +19,7 @@
 - 🕹️ Founder and Producer of Game Festival (Electronic Games and E-Sports event) | Recife-PE
 - 🕹️ Organizer of the First Official Pernambuco League of Legends Championship, in partnership with Riot Games | Recife-PE
 - 🕹️ Cultural Producer and Curator hired by Ikewai (Porto Digital) to create the Porto Digital League of Legends (PDLOL) | Recife-PE
-- 🎭 Graduated as an Actor from Companhia de Teatro Manoel Constantino
+- 🎭 Certified as an Actor by Companhia de Teatro Manoel Constantino
 - 📚 Author of the book Oliver Chad: The 8th Elite Hunter, participant in the Kindle Literature Prize
 
 ## Education:
