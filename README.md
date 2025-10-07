@@ -26,10 +26,10 @@
 ## Education:
 
 - 🎓 Business Administration – Escola Superior de Marketing
-- ✈️ Tourism – Faculdade Santa Helena
-- 💻 Software Engineering (MBA) – Faculdade Metropolitana de São Paulo
-- 🛡️ Cybersecurity (Specialization) – Faculdade Metropolitana de São Paulo
 - 📢 Marketing and Advertising (2-year Specialization) - Escola Superior de Marketing
+- ✈️ Tourism – Faculdade Santa Helena
+- 💻 Software Engineering – Faculdade Metropolitana de São Paulo
+- 🛡️ Cybersecurity (Specialization) – Faculdade Metropolitana de São Paulo
 - 📑 Agile Management with Scrum – Udemy
 - 🐍 Python (Machine Learning and Cybersecurity) – Udemy
 - 📜 Certifications: ERP e CRM – TOTVS
