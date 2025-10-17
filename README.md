@@ -15,13 +15,15 @@
 
 ## Curiosities & Achievements:
 
-- 🎉 Founder and Producer of Festival Kanzen (Pop Culture event, ran for 10 years)
-- 🕹️ Founder and Producer of Game Festival (Electronic Games and E-Sports event)
-- 🕹️ Organizer of the First Official Pernambuco League of Legends Championship, in partnership with Riot Games
-- 🕹️ Cultural Producer and Curator hired by Ikewai to create the Porto Digital League of Legends (PDLOL)
-- 🎭 Certified as an Actor by Companhia de Teatro Manoel Constantino
-- 🎤 Speaker at Campus Party Recife on Event Production in the Electronic Games sector
-- 📚 Author of the book Oliver Chad: The 8th Elite Hunter, participant in the Kindle Literature Prize
+- 🎉 Creator and Leader of Festival Kanzen – Led the pop culture event for 10 years, attracting thousands of participants.
+- 🕹️ Founder and Producer of Game Festival – Organized Electronic Games and E-Sports events connecting developers, companies, pro gamers, and the gaming community.
+- 🎮 One of the Ambassadors for the Launch of Diablo 3 and StarCraft II: Wings of Liberty in Recife-PE, in partnership with Blizzard Games.
+- 🕹️ Organizer of the 1st Official League of Legends Championship in Pernambuco, in partnership with Riot Games, boosting the local E-Sports scene.
+- 🕹️ Cultural Producer and Curator of Porto Digital League of Legends (PDLOL), designing immersive experiences in gaming and digital culture.
+- 🎭 Certified Actor with the Manoel Constantino Theater Company, trained in acting and stage performance.
+- 🏆 Awarded by Ampla as "Best Event Held in a Shopping Center in Brazil in 2017", in collaboration with NoordGames.
+- 🎤 Speaker at Campus Party Recife, sharing strategic knowledge on event production for gaming and technology.
+- 📚 Author of the book Oliver Chad: The 8th Elite Hunter, nominated for the Kindle Literary Award, exploring fantasy and adventure storytelling.
 
 ## Education:
 
